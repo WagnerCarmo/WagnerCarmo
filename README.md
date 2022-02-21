@@ -1,7 +1,7 @@
-<h2>  "Eu ando devagar, mas nunca para trás" </h2>
+<h3>  "Eu ando devagar, mas nunca para trás" </h3>
 <p>                       - Abraham Lincoln </p>
 
-<br>
+
 <p><h2> Hello World 👋 </h2>
 
 <h3> Skills: </h3>

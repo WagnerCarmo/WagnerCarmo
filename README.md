@@ -8,8 +8,6 @@
 <h3>  "Eu ando devagar, mas nunca para trás" </h3>
 <p>                       - Abraham Lincoln </p>
 
-
-
 <div>
 
 <img align="right" width="210px" height="210px" src="https://i.imgur.com/Wu2cyHn.png>">    
@@ -28,7 +26,6 @@
 <img src= https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white>   
 <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
 
-
 </div>
 
 <div>
@@ -37,7 +34,7 @@
 
 <a href="https://www.instagram.com/wagner_karmo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/wagneramorimcarmo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:wagner.amorim.carmo@gmail.com?subject=Hello%20again"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:wagner.amorim.carmo@gmail.com?subject=Hello%20again"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
 
@@ -45,8 +42,8 @@
 
 <div align="left">
 <a href="https://github.com/WagnerCarmo"> 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=WagnerCarmo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerCarmo&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="195em" src="https://github-readme-stats.vercel.app/api?username=WagnerCarmo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerCarmo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ![Snake animation](https://github.com/WagnerCarmo/WagnerCarmo/blob/output/github-contribution-grid-snake.svg)

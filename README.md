@@ -2,7 +2,7 @@
 <p><h2> Hello World 👋 </h2>
 
 <h3>  "Eu ando devagar, mas nunca para trás" </h3>
-<img align="right" width="230px" height="230px" src="https://i.imgur.com/Wu2cyHn.png>"> 
+<img align="right" width="210px" height="210px" src="https://i.imgur.com/Wu2cyHn.png>"> 
 <p>                       - Abraham Lincoln </p>
 
 <div>

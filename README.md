@@ -6,7 +6,7 @@
 
 <h3> Skills: </h3>
 <div>
-<img align="right" height="250" style="border-radius:50px;" src=https://i.imgur.com/gQ4bdZb.png>
+<img margin-top="800px" align="right" height="250" style="border-radius:50px;" src=https://i.imgur.com/gQ4bdZb.png>
 </div>  
 <div>  
 <td><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></td>
@@ -21,24 +21,14 @@
 <img src= https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white>   
 <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
   
-
-  
 </div>
 
 <h3>Contato: </h3>
 <div>
 <a href="https://www.instagram.com/wagner_karmo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/wagneramorimcarmo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "wagner.amorim.carmo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="mailto:wagner.amorim.carmo@gmail.com?subject=Hello%20again"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  
-
-  
-  
-  
-
-
 </div>
 
 <h2>Estatística Github</h2>

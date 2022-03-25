@@ -2,7 +2,7 @@
 <p><h2> Hello World 👋 </h2>
 
 <h3>  "Eu ando devagar, mas nunca para trás" </h3>
-<img align="right" width="210px" height="210px" src="https://i.imgur.com/Wu2cyHn.png>"> 
+<img align="right" width="240px" height="240px" src="https://i.imgur.com/Wu2cyHn.png>"> 
 <p>                       - Abraham Lincoln </p>
 
 <div>
@@ -37,8 +37,8 @@
 
 <div align="left">
 <a href="https://github.com/WagnerCarmo"> 
-<img height="195em" src="https://github-readme-stats.vercel.app/api?username=WagnerCarmo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerCarmo&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=WagnerCarmo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerCarmo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ![Snake animation](https://github.com/WagnerCarmo/WagnerCarmo/blob/output/github-contribution-grid-snake.svg)

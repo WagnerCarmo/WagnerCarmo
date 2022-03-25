@@ -5,13 +5,15 @@
 
 <p><h2> Hello World 👋 </h2>
 
-<img align="right" width="320px" height="320px" src="https://i.imgur.com/Wu2cyHn.png>">
-
 <h3>  "Eu ando devagar, mas nunca para trás" </h3>
 <p>                       - Abraham Lincoln </p>
 
+
+
 <div>
-  
+
+<img align="right" width="210px" height="210px" src="https://i.imgur.com/Wu2cyHn.png>">    
+    
 <h3> Skills: </h3>
 
 <td><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></td>
@@ -25,6 +27,7 @@
 <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src= https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white>   
 <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
+
 
 </div>
 

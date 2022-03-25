@@ -6,6 +6,9 @@
 
 <h3> Skills: </h3>
 <div>
+<img align="right" height="250" style="border-radius:50px;" src=https://i.imgur.com/gQ4bdZb.png>
+</div>  
+<div>  
 <td><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></td>
 <img src= https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white>
 <td><img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/></td>
@@ -18,6 +21,7 @@
 <img src= https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white>   
 <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
   
+
   
 </div>
 

@@ -7,7 +7,7 @@
 
 <div>
   
-<h3> Possuo conhecimento em:</h3>
+<h3> Possuo conhecimento em : </h3>
     
 <td><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></td>
 <img src= https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white>

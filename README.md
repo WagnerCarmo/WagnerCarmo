@@ -6,9 +6,11 @@
 <p>                       - Abraham Lincoln </p>
  
 <div>
- 
+
+ <img align="right" width="240px" height="240px" src="https://i.imgur.com/Wu2cyHn.png>"> 
+
 <h3> Possuo conhecimento em : </h3>
-<img align="right" width="240px" height="240px" src="https://i.imgur.com/Wu2cyHn.png>">     
+     
 <td><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></td>
 <img src= https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white>
 <td><img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/></td>

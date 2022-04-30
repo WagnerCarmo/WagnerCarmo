@@ -2,9 +2,9 @@
 <p><h2> Hello World 👋 </h2>
 
 <h3>  "Eu ando devagar, mas nunca para trás" </h3>
-<img align="right" width="240px" height="240px" src="https://i.imgur.com/Wu2cyHn.png>"> 
-<p>                       - Abraham Lincoln </p>
 
+<p>                       - Abraham Lincoln </p>
+<img align="right" width="240px" height="240px" src="https://i.imgur.com/Wu2cyHn.png>"> 
 <div>
   
 <h3> Possuo conhecimento em : </h3>
